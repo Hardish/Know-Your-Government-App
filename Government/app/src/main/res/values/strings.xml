@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="about">About</string>
+    <string name="u00a9_disha_patel">© 2019,Disha Patel</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="powered_by">Powered By</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="google_civic_information_api">                Google Civic                   Information API</string>
+    <string name="chicago_usa">Chicago,IL,60654</string>
+    <string name="separator">separator</string>
+    <string name="governement_detail_information_window_created">Governement Detail Information Window Created</string>
+    <string name="personimage">PersonImage</string>
+    <string name="partylogo">PartyLogo</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="googleimage">GoogleImage</string>
+    <string name="facebookimage">FacebookImage</string>
+    <string name="twitterimage">TwitterImage</string>
+    <string name="youtubeimage">YoutubeImage</string>
+
+
+</resources>
